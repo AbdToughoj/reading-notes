@@ -28,7 +28,3 @@
 ![sql](/assets/SQL10.png)
 ![sql](/assets/SQL11.png)
 ![sql](/assets/SQL12.png)
-
-
-
-
