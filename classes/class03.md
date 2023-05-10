@@ -1,3 +1,5 @@
+## Class 03
+
 ### 1)What is the purpose of the ‘with’ statement when opening a file in Python, and how does it help manage resources while reading and writing files?
 
 #### In Python, the with statement is used to open and handle files in a more secure and productive manner. Even if an error happens while the block of code is being performed, it makes sure that the file is properly closed thereafter. Through the prevention of resource leaks and potential problems that would arise if the file was not correctly closed, this aids in resource management while reading and writing files. The file object's close() method is automatically called when the with block is ended, so you don't need to explicitly call it when using the with statement. This strengthens your code, reduces the likelihood of errors, and can help you avoid future problems with resource management.
