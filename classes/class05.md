@@ -1,7 +1,5 @@
 ## Class 05: Linked Lists
 
-</br>
-
 ### **Big O: Analysis of Algorithm Efficiency**
 
 Big O notation is a mathematical notation used to describe the efficiency of an algorithm or a function in terms of its worst-case time complexity. It measures how the running time of an algorithm grows as the input size increases.
