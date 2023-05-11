@@ -1,4 +1,4 @@
-## Class 04: Linked Lists
+## Class 05: Linked Lists
 
 </br>
 
