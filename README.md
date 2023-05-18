@@ -17,6 +17,7 @@
   | 5            | [class 05](/classes/class05.md) |
   | 6            | [class 06](/classes/class06.md) |
   | 7            | [class 07](/classes/class07.md) |
+  | 8            | [class 08](/classes/class08.md) |
 
 * ## Things I want to know more about
 
