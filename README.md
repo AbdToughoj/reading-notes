@@ -8,16 +8,17 @@
 - ## Code 201 - Foundations of Software Development
 - ## Code 301 - Intermediate Software Development
 - ## Code 401 - Advanced Software Development
-  | Class Number | Class Name                      |
-  | ------------ | ------------------------------- |
-  | 1            | [class 01](/classes/class01.md) |
-  | 2            | [class 02](/classes/class02.md) |
-  | 3            | [class 03](/classes/class03.md) |
-  | 4            | [class 04](/classes/class04.md) |
-  | 5            | [class 05](/classes/class05.md) |
-  | 6            | [class 06](/classes/class06.md) |
-  | 7            | [class 07](/classes/class07.md) |
-  | 8            | [class 08](/classes/class08.md) |
+  | Class Number | Class Name                                         |
+  | ------------ | -------------------------------------------------- |
+  | 1            | [class 01](/classes/class01.md)                    |
+  | 2            | [class 02](/classes/class02.md)                    |
+  | 3            | [class 03](/classes/class03.md)                    |
+  | 4            | [class 04](/classes/class04.md)                    |
+  | 5            | [class 05](/classes/class05.md)                    |
+  | 6            | [class 06](/classes/class06.md)                    |
+  | 7            | [class 07](/classes/class07.md)                    |
+  | 8            | [stacks and queues](/classes/stacks-and-queues.md) |
+  | 7            | [class 08](/classes/class08.md)                    |
 
 * ## Things I want to know more about
 
