@@ -19,6 +19,7 @@
   | 7            | [class 07](/classes/class07.md)                    |
   | 8            | [stacks and queues](/classes/stacks-and-queues.md) |
   | 9            | [class 08](/classes/class08.md)                    |
+  | 10           | [class 09](/classes/class09.md)                    |
 
 * ## Things I want to know more about
 
