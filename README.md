@@ -23,6 +23,7 @@
   | 11           | [class 11](/classes/class11.md)                    |
   | 12           | [class 12](/classes/class12.md)                    |
   | 13           | [class 13](/classes/class13.md)                    |
+  | 14           | [class 14](/classes/class14.md)                    |
 
 * ## Things I want to know more about
 
