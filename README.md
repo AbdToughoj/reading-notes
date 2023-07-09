@@ -26,6 +26,7 @@
   | 14           | [class 14](/classes/class14.md)                    |
   | 15           | [class 15](/classes/Trees.md)                      |
   | 16           | [class 16](/classes/class16.md)                    |
+  | 17           | [class 26](/classes/class26.md)                    |
 
 * ## Things I want to know more about
 
