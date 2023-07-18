@@ -29,6 +29,7 @@
   | 17           | [class 26](/classes/class26.md)                    |
   | 18           | [class 27](/classes/class27.md)                    |
   | 19           | [class 28](/classes/class28.md)                    |
+  | 20           | [class 29](/classes/class29.md)                    |
 
 * ## Things I want to know more about
 
