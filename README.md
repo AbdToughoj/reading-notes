@@ -8,6 +8,7 @@
 - ## Code 201 - Foundations of Software Development
 - ## Code 301 - Intermediate Software Development
 - ## Code 401 - Advanced Software Development
+
   | Class Number | Class Name                                         |
   | ------------ | -------------------------------------------------- |
   | 1            | [class 01](/classes/class01.md)                    |
@@ -30,6 +31,9 @@
   | 18           | [class 27](/classes/class27.md)                    |
   | 19           | [class 28](/classes/class28.md)                    |
   | 20           | [class 29](/classes/class29.md)                    |
+  | 21           | [class 30](/classes/Hash_Tables.md)                |
+
+  Hash Tables
 
 * ## Things I want to know more about
 
