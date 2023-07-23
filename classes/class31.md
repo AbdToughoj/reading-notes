@@ -1,4 +1,4 @@
-## Class30: Django REST Framework & Docker
+## Class 31: Django REST Framework & Docker
 
 ### 1) What are the key components of a Docker container, and how do they help streamline the development and deployment of applications?
 
