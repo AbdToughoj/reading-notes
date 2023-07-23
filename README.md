@@ -32,8 +32,7 @@
   | 19           | [class 28](/classes/class28.md)                    |
   | 20           | [class 29](/classes/class29.md)                    |
   | 21           | [class 30](/classes/Hash_Tables.md)                |
-
-  Hash Tables
+  | 22           | [class 31](/classes/class31.md)                    |
 
 * ## Things I want to know more about
 
