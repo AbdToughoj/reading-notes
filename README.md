@@ -35,6 +35,7 @@
   | 22           | [class 31](/classes/class31.md)                    |
   | 23           | [class 32](/classes/class32.md)                    |
   | 24           | [class 33](/classes/class33.md)                    |
+  | 25           | [class 34](/classes/class34.md)                    |
 
 * ## Things I want to know more about
 
