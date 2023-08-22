@@ -41,6 +41,7 @@
   | 28           | [class 37](/classes/class37.md)                    |
   | 29           | [class 38](/classes/class38.md)                    |
   | 30           | [class 39](/classes/class39.md)                    |
+  | 31           | [class 41](/classes/class41.md)                    |
 
 * ## Things I want to know more about
 
